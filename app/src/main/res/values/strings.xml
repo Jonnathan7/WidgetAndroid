@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InterfazWidget</string>
+    <string name="texto_widget">Widget con reloj análogo</string>
+</resources>
